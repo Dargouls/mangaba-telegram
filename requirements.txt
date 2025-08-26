@@ -2,7 +2,6 @@
 
 # Bot do Telegram
 python-telegram-bot==13.7
-urllib3==1.26.18
 
 # Google Gemini AI
 google-generativeai==0.3.2
